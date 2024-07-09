@@ -13,7 +13,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://vipweb.lt/labirintas_51/
+Site published at: https://darkera007.github.io/labirintas_51/
 
 Design: [Labirintas](https://imgur.com/a/WEJNVpZ)
 
