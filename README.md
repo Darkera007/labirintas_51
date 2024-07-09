@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
@@ -13,7 +13,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://darkera007.github.io/labirintas_51/
+Site published at: https://vipweb.lt/labirintas_51/
 
 Design: [Labirintas](https://imgur.com/a/WEJNVpZ)
 
@@ -77,6 +77,3 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 No other resources.
 =======
-# DEMO https://vipweb.lt/labirintas_51/
-# NO Responsive design! (extra cost)
->>>>>>> f9102f0ff0bf22cd129919de1a542a6681413048
